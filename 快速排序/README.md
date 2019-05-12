@@ -8,4 +8,5 @@
 (3) 递归地把"基准值前面的子数列"和"基准值后面的子数列"进行排序。
 
 下面以数列a={30,40,60,10,20,50}为例，演示它的快速排序过程(如下图)。
-图片参考链接：https://github.com/Meizi37/DateDesign.github.io/edit/master/快速排序/README.md
+图片参考链接：https://github.com/Meizi37/DateDesign.github.io/blob/master/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/QuickSort.jpg
+
