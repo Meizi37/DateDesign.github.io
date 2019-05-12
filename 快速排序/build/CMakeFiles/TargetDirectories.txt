@@ -1,0 +1,4 @@
+/home/truth/Project/C++primer/stack/build/CMakeFiles/edit_cache.dir
+/home/truth/Project/C++primer/stack/build/CMakeFiles/rebuild_cache.dir
+/home/truth/Project/C++primer/stack/build/CMakeFiles/quick_sort.dir
+/home/truth/Project/C++primer/stack/build/CMakeFiles/bubbleSort.dir
